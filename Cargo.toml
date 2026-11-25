@@ -6,4 +6,3 @@ edition = "2024"
 [dependencies]
 inquire = "0.9.5"
 macroquad = "0.4.16"
-rand = "0.10.4"
